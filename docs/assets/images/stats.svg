@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1285.5 11.983 40.074 37.517">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        stroke-linecap: square;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(1285.5 11.983)">
+    <g id="iPhone-SE" transform="translate(1.5 1.5)">
+      <g id="Group-3">
+        <g id="Group_13" data-name="Group 13" transform="translate(0 0)">
+          <path id="Line" class="cls-1" d="M7.333,9.375H27.788" transform="translate(0.124 0.693)"/>
+          <path id="Line-Copy" class="cls-1" d="M7.333,15.625H27.788" transform="translate(0.124 2.433)"/>
+          <path id="Line-Copy-2" class="cls-1" d="M7.333,21.875H27.788" transform="translate(0.124 4.173)"/>
+          <rect id="Rectangle-4" class="cls-2" width="37.074" height="34.517" rx="6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

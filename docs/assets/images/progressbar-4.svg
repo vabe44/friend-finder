@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1313 299 230 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #95989a;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        filter: url(#Path_22);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#63b7f5"/>
+      <stop offset="1" stop-color="#539cd1"/>
+    </linearGradient>
+    <filter id="Path_22" x="1313" y="299" width="130" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_19" data-name="Group 19" transform="translate(1267 133)">
+    <g id="Rectangle_12" data-name="Rectangle 12" class="cls-1" transform="translate(46 175)">
+      <rect class="cls-3" width="223" height="25" rx="12.5"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="222" height="24" rx="12"/>
+    </g>
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, -1267, -133)">
+      <path id="Path_22-2" data-name="Path 22" class="cls-2" d="M12.5.5h99v24h-99a12,12,0,0,1,0-24Z" transform="translate(1313 308)"/>
+    </g>
+  </g>
+</svg>
