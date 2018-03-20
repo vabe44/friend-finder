@@ -1,0 +1,21 @@
+.stats {
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: lightgray;
+}
+
+h1 {
+    margin: unset;
+    padding: 5px 0;
+    text-align: center;
+}
+
+.progressbars {
+    padding: 0 35px;
+}
+
+object.progressbar {
+    margin: 5px 0;
+}

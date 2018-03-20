@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1582.571 11.983 41.768 34.538">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(1582 11.983)">
+    <g id="iPhone-SE" transform="translate(3 1.5)">
+      <g id="Group-2" transform="translate(0 0)">
+        <rect id="Rectangle-3" class="cls-1" width="31.435" height="31.435" rx="6" transform="translate(6.403)"/>
+        <path id="Triangle" class="cls-2" d="M5.85,24l4.629,5.821L0,29.72Z" transform="translate(0 2.196)"/>
+      </g>
+    </g>
+  </g>
+</svg>

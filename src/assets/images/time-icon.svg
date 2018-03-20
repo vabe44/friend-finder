@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1122.5 526.492 34 34.008">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #95989a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="if_time-24_103169" transform="translate(1122.997 526.992)">
+    <g id="Group_25" data-name="Group 25" transform="translate(0.003)">
+      <path id="Path_29" data-name="Path 29" class="cls-1" d="M16.5,0A16.5,16.5,0,1,0,33,16.5,16.5,16.5,0,0,0,16.5,0Zm6.068,22.981-.481.481a1.1,1.1,0,0,1-1.5.04l-6.217-5.439a2.457,2.457,0,0,1-.717-1.719l.576-9.812A1.1,1.1,0,0,1,15.323,5.5H16A1.1,1.1,0,0,1,17.083,6.53l.472,8.161a3.433,3.433,0,0,0,.736,1.8l4.324,4.99A1.11,1.11,0,0,1,22.571,22.981Z" transform="translate(-0.003)"/>
+    </g>
+  </g>
+</svg>

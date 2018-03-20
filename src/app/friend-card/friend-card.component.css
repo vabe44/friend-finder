@@ -1,0 +1,52 @@
+.card {
+    justify-content: center;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: lightgray;
+}
+
+.profile {
+    padding: 20px;
+    padding-bottom: unset;
+}
+
+.info {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    /* padding-top: 20px; */
+}
+
+.circle {
+    width: 65px;
+    height: 65px;
+    border-radius: 175px;
+    background-color: white;
+}
+
+.profile-picture {
+    margin-top: -40px;
+}
+
+img.picture {
+    max-width: 100%;
+    border-radius: 175px;
+}
+
+.progressbars {
+    padding: 20px;
+}
+
+.progressbar {
+    display: flex;
+    max-height: 45px;
+    justify-content: space-between;
+}
+
+.progressbar .percent {
+    width: 75%;
+}
+
+.progressbar .icon {
+    width: 10%;
+}

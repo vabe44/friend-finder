@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.menu.icon {
+    height: 40px;
+    width: 50px;
+}
