@@ -1,0 +1,15 @@
+/* CSS */
+.percent.bar {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    border-radius: 500px;
+    border: 1px solid gray;
+}
+
+.value {
+    height: 100%;
+    border-right: 1px solid gray;
+    border-top-left-radius: 500px;
+    border-bottom-left-radius: 500px;
+}

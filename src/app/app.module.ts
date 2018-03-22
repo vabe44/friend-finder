@@ -9,6 +9,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { StatsScreenComponent } from './stats-screen/stats-screen.component';
 import { FriendCardComponent } from './friend-card/friend-card.component';
 import { MessagesScreenComponent } from './messages-screen/messages-screen.component';
+import { ProgressbarComponent } from './progressbar/progressbar.component';
 
 const appRoutes: Routes = [
   { path: '', component: FriendCardComponent },
@@ -24,7 +25,8 @@ const appRoutes: Routes = [
     NavbarComponent,
     StatsScreenComponent,
     FriendCardComponent,
-    MessagesScreenComponent
+    MessagesScreenComponent,
+    ProgressbarComponent
   ],
   imports: [
     BrowserModule,

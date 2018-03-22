@@ -12,15 +12,15 @@
   </div>
   <div class="progressbars">
     <div class="globe progressbar">
-      <img class="percent" src="./assets/images/progressbar-1.svg" type="image/svg+xml">
+      <app-progressbar [percentage]="50" [color]="'blue'" class="percent bar"></app-progressbar>
       <img class="icon" src="./assets/images/globe-icon.svg" type="image/svg+xml">
     </div>
     <div class="music progressbar">
-      <img class="percent" src="./assets/images/progressbar-2.svg" type="image/svg+xml">
+      <app-progressbar [percentage]="60" [color]="'yellow'" class="percent bar"></app-progressbar>
       <img class="icon" src="./assets/images/music-icon.svg" type="image/svg+xml">
     </div>
     <div class="time progressbar">
-      <img class="percent" src="./assets/images/progressbar-3.svg" type="image/svg+xml">
+      <app-progressbar [percentage]="75" [color]="'green'" class="percent bar"></app-progressbar>
       <img class="icon" src="./assets/images/time-icon.svg" type="image/svg+xml">
     </div>
   </div>

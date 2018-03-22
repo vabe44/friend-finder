@@ -26,11 +26,19 @@
 
 .profile-picture {
     margin-top: -40px;
+    display: flex;
+    justify-content: center;
 }
 
 img.picture {
-    max-width: 100%;
-    border-radius: 175px;
+    width: calc(100vw - 80px);
+    height: calc(100vw - 80px);
+    max-width: 500px;
+    max-height: 500px;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
 }
 
 .progressbars {
@@ -38,9 +46,10 @@ img.picture {
 }
 
 .progressbar {
+    height: 30px;
     display: flex;
-    max-height: 45px;
     justify-content: space-between;
+    padding: 5px 0px;
 }
 
 .progressbar .percent {
@@ -48,5 +57,5 @@ img.picture {
 }
 
 .progressbar .icon {
-    width: 10%;
+    width: 45px;
 }

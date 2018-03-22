@@ -16,6 +16,9 @@ h1 {
     padding: 0 35px;
 }
 
-object.progressbar {
-    margin: 5px 0;
+.progressbar {
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
 }
